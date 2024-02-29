@@ -15,7 +15,7 @@ Um sistema simples de cadastro de funcionários em Python que armazena os dados 
 - `json_utils.py`: Módulo contendo funções para ler e salvar dados em formato JSON.
 - `employees.json`: Arquivo JSON para armazenar os dados dos funcionários. Este arquivo é criado automaticamente se não existir quando o programa é executado.
 
-## Documentação das Funções
+## Documentação das Funções (`json_utils.py`)
 
 - `read_json(path_)`: Função para ler os dados do arquivo JSON. Se o arquivo não existir, um novo arquivo vazio é criado.
 - `save_employee(data_, path_)`: Função para salvar os dados no arquivo JSON.
